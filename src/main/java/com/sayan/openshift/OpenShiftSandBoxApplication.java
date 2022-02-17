@@ -9,5 +9,4 @@ public class OpenShiftSandBoxApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpenShiftSandBoxApplication.class, args);
 	}
-
 }
